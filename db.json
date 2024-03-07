@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "bhavna ray",
+      "username": "bhavna",
+      "email": "raybhavna@gmail.com",
+      "phone": 9876435678,
+      "website": "google.com"
+    },
+    {
+      "id": "3",
+      "name": "pratiksha patidar",
+      "username": "pratiksha",
+      "email": "patidarp@gmail.com",
+      "phone": 2345987653,
+      "website": "google.com"
+    },
+    {
+      "id": "5",
+      "name": "piyu sen",
+      "username": "senp",
+      "email": "senpiyu@gmail.com",
+      "phone": "235",
+      "website": "google.com"
+    },
+    {
+      "id": "d8d4",
+      "name": "pratiksha",
+      "username": "pari",
+      "email": "aims@aims.com",
+      "phone": "3425435645",
+      "website": "nil"
+    }
+  ]
+}
